@@ -4,3 +4,5 @@
 /cv.pdf
 /cv.aux
 /texput.log
+*.text~
+.gitignore~
